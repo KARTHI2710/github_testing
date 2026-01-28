@@ -1,4 +1,0 @@
-This is first commit
-This is branch1 first commit
-This is branch1 first commit changed
-This is Second commit
